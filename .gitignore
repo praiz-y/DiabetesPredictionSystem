@@ -1,0 +1,23 @@
+# Data and Models
+datasets/
+models/
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+
+# Python environment
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+.env
+
+# Databases
+*.db
+*.sqlite
+
+# System files
+.DS_Store
+Thumbs.db
