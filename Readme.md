@@ -1,7 +1,8 @@
-Diabetes Prediction System: A Dual-Stream AI Approach
+**Diabetes Prediction System**
+ A Dual-Stream AI Approach
     This repository contains a comprehensive Machine Learning system designed to predict diabetes risk using two distinct data streams: Clinical Laboratory Data and Lifestyle Behavioral Patterns.
 
-📂 Project Structure
+**📂 Project Structure**
 
 scripts/ (The Core Application)
         app.py: The main entry point. A Streamlit web application that provides the user interface for both clinical and lifestyle assessments.
